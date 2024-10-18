@@ -15,4 +15,4 @@
 - Sentry for error checking included
 - uses CSS modules and also Tailwind and shadcn for styling
 - linted by Eslint and Prettier
-# crud
+
