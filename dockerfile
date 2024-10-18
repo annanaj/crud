@@ -6,7 +6,6 @@ COPY yarn*.lock ./
 RUN yarn install
 COPY . .
 RUN yarn build
-
 # Stage 2: Nginx to serve the built React app
 FROM nginx:1.19.0
 WORKDIR /usr/share/nginx/html
