@@ -1,5 +1,4 @@
 # React app from scratch
-
 - not hosted anywhere yet, for now it is just on GitHub
 
 ## Technologies and features
